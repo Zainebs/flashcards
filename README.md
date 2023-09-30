@@ -1,1 +1,3 @@
 # flashcards
+
+EVERYTHING IS IN MASTER
